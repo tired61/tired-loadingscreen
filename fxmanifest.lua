@@ -7,6 +7,7 @@ version '1.0.0'
 
 manual_shutdown 'yes'
 
+loadscreen 'web/dist/index.html'
 ui_page 'web/dist/index.html'
 
 files {
