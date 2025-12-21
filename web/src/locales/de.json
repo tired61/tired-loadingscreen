@@ -1,0 +1,13 @@
+{
+    "loading": "Stadt wird geladen...",
+    "connect_steam": "Steam-Verbindung wird hergestellt...",
+    "music_paused": "Musik pausiert",
+    "boot_msg_1": "System wird initialisiert...",
+    "boot_msg_2": "Ressourcen werden geladen...",
+    "boot_msg_3": "Sicherheitsprotokolle werden überprüft...",
+    "boot_msg_4": "RAM-Cache wird geleert...",
+    "boot_msg_5": "Verbindung hergestellt. Willkommen.",
+    "ready_to_play": "Bereit zum Spielen!",
+    "stop_music_hint": "Leertaste drücken um Musik zu stoppen",
+    "mod_packs_loaded": "Mod-Pakete geladen"
+}

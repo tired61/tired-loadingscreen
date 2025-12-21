@@ -1,0 +1,51 @@
+@import url('https://fonts.googleapis.com/css2?family=Fira+Code:wght@300..700&family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&family=UnifrakturMaguntia&display=swap');
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  body {
+    @apply bg-black text-white overflow-hidden select-none font-sans;
+  }
+}
+
+.font-gothic {
+  font-family: 'UnifrakturMaguntia', cursive;
+}
+
+.text-gold-gradient {
+  background: linear-gradient(to bottom, #FFD700 0%, #B8860B 100%);
+  background-clip: text;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  filter: drop-shadow(0 0 10px rgba(255, 215, 0, 0.5));
+}
+
+/* Custom Scrollbar for Patch Notes */
+::-webkit-scrollbar {
+  width: 6px;
+}
+
+::-webkit-scrollbar-track {
+  background: rgba(0, 0, 0, 0.1);
+}
+
+::-webkit-scrollbar-thumb {
+  background: #22c55e;
+  border-radius: 4px;
+}
+
+/* CRT Effect Overlay Class */
+.scanlines {
+  background: linear-gradient(to bottom,
+      rgba(255, 255, 255, 0),
+      rgba(255, 255, 255, 0) 50%,
+      rgba(0, 0, 0, 0.2) 50%,
+      rgba(0, 0, 0, 0.2));
+  background-size: 100% 4px;
+  position: absolute;
+  pointer-events: none;
+  inset: 0;
+  z-index: 50;
+}

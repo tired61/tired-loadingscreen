@@ -1,0 +1,13 @@
+{
+    "loading": "Cargando ciudad...",
+    "connect_steam": "Conectando a Steam...",
+    "music_paused": "Música pausada",
+    "boot_msg_1": "Inicializando sistema...",
+    "boot_msg_2": "Cargando recursos...",
+    "boot_msg_3": "Verificando protocolos de seguridad...",
+    "boot_msg_4": "Limpiando caché de RAM...",
+    "boot_msg_5": "Conexión establecida. Bienvenido.",
+    "ready_to_play": "¡Listo para jugar!",
+    "stop_music_hint": "presiona espacio para detener la música",
+    "mod_packs_loaded": "Paquetes de mods cargados"
+}

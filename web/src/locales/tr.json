@@ -1,0 +1,13 @@
+{
+    "loading": "Şehir Yükleniyor...",
+    "connect_steam": "Steam Bağlantısı Kuruluyor...",
+    "music_paused": "Müzik Duraklatıldı",
+    "boot_msg_1": "Sistem başlatılıyor...",
+    "boot_msg_2": "Varlıklar yükleniyor...",
+    "boot_msg_3": "Güvenlik protokolleri doğrulanıyor...",
+    "boot_msg_4": "RAM önbelleği temizleniyor...",
+    "boot_msg_5": "Bağlantı kuruldu. Hoş geldiniz.",
+    "ready_to_play": "Oyuna girmek için hazır!",
+    "stop_music_hint": "müziği durdurmak için space",
+    "mod_packs_loaded": "Mod paketleri yüklendi"
+}

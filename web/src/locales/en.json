@@ -1,0 +1,13 @@
+{
+    "loading": "Loading City...",
+    "connect_steam": "Connecting Steam...",
+    "music_paused": "Music Paused",
+    "boot_msg_1": "System initializing...",
+    "boot_msg_2": "Loading assets...",
+    "boot_msg_3": "Verifying security protocols...",
+    "boot_msg_4": "Clearing RAM cache...",
+    "boot_msg_5": "Connection established. Welcome.",
+    "ready_to_play": "Ready to enter the game!",
+    "stop_music_hint": "press space to stop music",
+    "mod_packs_loaded": "Mod packs loaded"
+}
