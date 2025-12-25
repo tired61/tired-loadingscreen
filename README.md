@@ -1,6 +1,6 @@
-# tiredbtw-loadingscreen 
+# tired-loadingscreen 
 
-**tiredbtw-loadingscreen** is a premium, gothic-themed loading screen resource designed for FiveM servers. Built with **React**, **Vite**, and **TailwindCSS**, it offers a modern, cinematic experience for players joining your server.
+**tired-loadingscreen** is a premium, gothic-themed loading screen resource designed for FiveM servers. Built with **React**, **Vite**, and **TailwindCSS**, it offers a modern, cinematic experience for players joining your server.
 
 ## ✨ Features
 
@@ -26,22 +26,13 @@
 
 1.  **Download/Clone**:
     Download the resource and place it in your `resources` folder.
-    *Ensure the folder name is `tiredbtw-loadingscreen`.*
+    *Ensure the folder name is `tired-loadingscreen`.*
 
 2.  **Server Configuration**:
     Add the resource to your `server.cfg`.
     ```cfg
-    ensure tiredbtw-loadingscreen
+    ensure tired-loadingscreen
     ```
-
-3.  **Dependencies (Optional - Dev Only)**:
-    If you want to modify the source code (React), navigate to the `web` folder.
-    ```bash
-    cd tiredbtw-loadingscreen/web
-    npm install
-    npm run build
-    ```
-    *You do NOT need to do this just to change config settings.*
 
 ## ⚙️ Configuration
 
@@ -89,4 +80,4 @@ Config = {
 - **Language**: TypeScript
 
 ---
-*Developed by TireDBTW*
+*Developed by tired*
