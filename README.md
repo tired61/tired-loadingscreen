@@ -4,8 +4,7 @@
 
 ## ✨ Features
 
-- **Cinematic Visuals**: 
-  - Centered "Gothic Gold" logo design (configurable).
+- **Cinematic Visuals**:
   - Cyberpunk-style glowing progress bar.
   - Smooth fade-in animations.
 - **Dynamic Backgrounds**:
